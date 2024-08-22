@@ -1,1 +1,1 @@
-This repository contains directories for backend projects
+This directory contains directories and files for backend
